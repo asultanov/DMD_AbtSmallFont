@@ -16,4 +16,4 @@
 #include "gfx_fonts/AbtSmall8pt7b.h"
 DMD_GFX_Font AbtSmall((uint8_t*)&AbtSmall8pt7b, (uint8_t*)&AbtSmall8pt8b_rus, 0x80, 9);
 ```
-Если что то нужно поправить telegram: https://t.me/Abt525su
+Если что то нужно поправить, мой telegram: https://t.me/Abt525su
